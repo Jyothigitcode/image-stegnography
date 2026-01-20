@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore generated images
+stego_image.png
+
+# Ignore cache
+__pycache__/
+
+# Ignore old files
